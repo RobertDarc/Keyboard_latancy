@@ -1,2 +1,2 @@
 # Keyboard_latancy
-Test the keyboard latancy
+Test the keyboard latency
